@@ -1,0 +1,12 @@
+﻿  CongTrinhKhoaHoc.cpp
+  List.cpp
+d:\oop\102160108_16t2_bt01\nguyencongphu16t2\nguyencongphu16t2\list.cpp(80): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+d:\oop\102160108_16t2_bt01\nguyencongphu16t2\nguyencongphu16t2\list.cpp(80): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+d:\oop\102160108_16t2_bt01\nguyencongphu16t2\nguyencongphu16t2\list.cpp(80): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+d:\oop\102160108_16t2_bt01\nguyencongphu16t2\nguyencongphu16t2\list.cpp(154): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+d:\oop\102160108_16t2_bt01\nguyencongphu16t2\nguyencongphu16t2\list.cpp(154): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+d:\oop\102160108_16t2_bt01\nguyencongphu16t2\nguyencongphu16t2\list.cpp(154): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+  PhuNguyen.cpp
+d:\oop\102160108_16t2_bt01\nguyencongphu16t2\nguyencongphu16t2\phunguyen.cpp(12): warning C4101: 'size': unreferenced local variable
+  Generating Code...
+  NguyenCongPhu16T2.vcxproj -> D:\OOP\102160108_16T2_BT01\NguyenCongPhu16T2\Debug\NguyenCongPhu16T2.exe
